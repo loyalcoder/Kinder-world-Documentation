@@ -1,6 +1,6 @@
 ---
 Title: Our First Page
-sideber_position: 1
+"position": 1,
 ---
 
 

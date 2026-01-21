@@ -1,8 +1,8 @@
 {
-   "label" : "Getting Started",
-   "sideber_position": 2,
-   "link":{
+  "label": "Getting Started",
+  "position": 2,
+  "link": {
     "type": "generated-index",
-    "description": "This is Our documentaion description"
-   }
+    "description": "This is our documentation description"
+  }
 }
