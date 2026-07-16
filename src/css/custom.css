@@ -1,0 +1,27 @@
+/**
+ * Kinder World documentation theme overrides.
+ * Primary color aligned with theme primary (#EA4E1B).
+ */
+
+:root {
+  --ifm-color-primary: #ea4e1b;
+  --ifm-color-primary-dark: #d34418;
+  --ifm-color-primary-darker: #c23d15;
+  --ifm-color-primary-darkest: #a03312;
+  --ifm-color-primary-light: #ef6a3f;
+  --ifm-color-primary-lighter: #f28a68;
+  --ifm-color-primary-lightest: #f7b39a;
+  --ifm-code-font-size: 95%;
+  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
+}
+
+[data-theme='dark'] {
+  --ifm-color-primary: #f28a68;
+  --ifm-color-primary-dark: #ef6a3f;
+  --ifm-color-primary-darker: #ea4e1b;
+  --ifm-color-primary-darkest: #c23d15;
+  --ifm-color-primary-light: #f7b39a;
+  --ifm-color-primary-lighter: #facbbb;
+  --ifm-color-primary-lightest: #fde5dc;
+  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
+}
