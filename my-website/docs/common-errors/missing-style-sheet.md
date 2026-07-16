@@ -1,3 +1,0 @@
-# Missing style sheet error when installing the theme
-<p>A common issue that can occur with users new to installing WordPress themes is a “Broken theme and/or stylesheets missing” error message being displayed when trying to upload or activate the theme. This error message does not mean that the theme you have purchased is broken, it simply means it has been uploaded incorrectly. Please check that you are uploading the kinder-world.zip within the theme folder. You may have to unzip/extract the compressed/zip file that you have downloaded from ThemeForest.</p>
-<img src="/img/docusaurus.png"/>
