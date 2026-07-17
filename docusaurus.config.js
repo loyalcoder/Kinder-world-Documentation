@@ -12,7 +12,7 @@ const config = {
   },
 
   url: 'https://loyalcoder.github.io',
-  baseUrl: '/Kinder-world-Documentation/',
+  baseUrl: '/',
   organizationName: 'loyalcoder',
   projectName: 'Kinder-world-Documentation',
   trailingSlash: false,
