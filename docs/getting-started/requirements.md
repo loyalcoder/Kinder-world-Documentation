@@ -28,7 +28,7 @@ Before installing Kinder World Theme and Kinder World Manager, make sure your en
 | **Kirki** | Extra Customizer panels in the Manager plugin (`General`, `Header`, `Footer` settings) |
 | **Jetpack** | Theme loads Jetpack compatibility when Jetpack is active |
 | **Magic Elements** | Extra Elementor widgets, templates, and Magic Builder layouts for richer page design |
-| **Easy Build CF7 Lite** | Build and style Contact Form 7 forms visually inside Elementor |
+| **Easy Build CF7 Light** | Build and style Contact Form 7 forms visually inside Elementor |
 
 ### Magic Elements
 
@@ -39,7 +39,6 @@ Before installing Kinder World Theme and Kinder World Manager, make sure your en
 | Folder | `wp-content/plugins/magic-elements/` |
 | Version (bundled example) | 1.0.4 |
 | Requires | WordPress 5.0+, PHP 7.0+, **Elementor** |
-| Site | [magic-elements.loyalcoders.com](https://magic-elements.loyalcoders.com) |
 
 **What it provides**
 
@@ -54,9 +53,9 @@ Before installing Kinder World Theme and Kinder World Manager, make sure your en
 
 Activate **Elementor** first, then activate Magic Elements.
 
-### Easy Build CF7 Light (CF7-lite)
+### Easy Build CF7 Light 
 
-**Easy Build CF7 Light** (often called CF7-lite) connects **Contact Form 7** with **Elementor**. You design contact forms with Elementor drag-and-drop widgets; fields sync back to Contact Form 7.
+**Easy Build CF7 Light** connects **Contact Form 7** with **Elementor**. You design contact forms with Elementor drag-and-drop widgets; fields sync back to Contact Form 7.
 
 | Detail | Value |
 |--------|--------|
@@ -64,7 +63,6 @@ Activate **Elementor** first, then activate Magic Elements.
 | Plugin name | Easy Build CF7 Light |
 | Version (bundled example) | 1.0.4 |
 | Requires | WordPress 5.0+, PHP 7.4+, **Contact Form 7**, **Elementor** |
-| Site | [easy-build-cf7-light.loyalcoders.com](https://easy-build-cf7-light.loyalcoders.com) |
 
 **What it provides**
 
